@@ -1,0 +1,5 @@
+version: 0.0
+Phases
+	Build:
+		commands:
+			mvn install
